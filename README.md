@@ -6,7 +6,7 @@ This team agreement governs the environment and interactions of the Colorado Dig
 
 We make this agreement public in the hopes of contributing to the ongoing conversation about inclusion in the tech, design, civic and media communities and encourage other teams to take it and make it their own. To our team, we commit to enforce and evolve this agreement as our team grows.
 
-[This introduction is shamelessly adapted from the [Vox Code of Conduct](https://code-of-conduct.voxmedia.com/).
+(This introduction is shamelessly adapted from the [Vox Code of Conduct](https://code-of-conduct.voxmedia.com/).)
 
 ## Standards
 
