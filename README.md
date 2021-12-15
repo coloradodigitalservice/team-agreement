@@ -20,7 +20,7 @@ We make this agreement public in the hopes of contributing to the ongoing conver
 <br>We actively work to invite all voices to join the conversation and acknowledge that good ideas can come from anyone. We recognize that while everyone is an expert in their own experience, we can’t assume we are experts in the experiences of others. We work to ensure that we are not the loudest voices in the room and focus to empower and elevate our government partner’s ideas.
 
 * **We are not here to judge.**
-<br>Governmental systems have been trying to support the collective care of the public for decades. In this, we recognize that there may be circumstances where previous implementations of a service were not ideal. It is not our place to place judgement on how a service came to be, instead our focus is on how to improve these services to the best of our ability.
+<br>Governmental systems have been trying to support the public for decades. In this, we recognize that there may be circumstances where previous implementations of a service were not ideal. It is not our place to place judgement on how a service came to be, instead our focus is on how to improve these services to the best of our ability.
 
 ## Enforcement Responsibilities
 Team members are responsible for clarifying and enforcing our agreements of acceptable behavior and will raise any issues observed in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
